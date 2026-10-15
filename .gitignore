@@ -1,0 +1,14 @@
+demo-output/
+.Rhistory
+.RData
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.rds
+*.RData
+*.vcf
+*.vcf.gz
